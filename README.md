@@ -1,2 +1,2 @@
-# project_4
+# Project
 Decoding Phone Usage Pattern in India
